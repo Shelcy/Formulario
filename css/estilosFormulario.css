@@ -1,0 +1,36 @@
+
+        .imgGrande {
+            width: 100%;
+            height: auto;
+            margin-top: 4%;
+        }
+
+        .imgLogo {
+            width: 70%;
+            height: auto;
+            margin: 2% 15%;
+            /* background-color: aqua; */
+        }
+
+        .container {
+            width: 75%;
+            height: auto;
+            /* background-color: rgba(163, 163, 163, 0.445); */
+            background-color: rgba(255, 255, 255, 0.76);
+            margin: auto;
+        }
+
+        /* button {
+            margin: 1% 45%;
+        } */
+
+        body {
+            background-image: url("../img/pexels-tembela.jpg");
+            background-size: 100% 100%;
+            background-attachment: fixed;
+
+        }
+
+        form{
+            box-sizing:border-box;
+        }
